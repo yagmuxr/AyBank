@@ -1,7 +1,3 @@
-Here’s a detailed README for your "AyBank" project based on the provided information:
-
----
-
 # AyBank
 
 AyBank is a banking application developed using Java Swing. It allows multiple user roles such as customers, employees, and managers, each with different permissions and functionality. The application enables operations like account management, transactions, and credit applications.
